@@ -149,7 +149,7 @@ def main():
             break
         balance += spin(balance)
 
-    print(f"You left with {balance}")
+    print(f"Thanks for playing! Your final balance is {balance}")
     
 
 
