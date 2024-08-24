@@ -18,8 +18,8 @@ Project Structure
 4. Win Check: The program checks if any lines match the winning combinations. If they do, the bet is multiplied by the line's value and added to the user's balance.
 5. Balance Update: Any winnings are added to the user's balance, and they can choose to play again or cash out.
 
-Requirements
+Requirements: 
  Python 3.x
  
-Contributing
+Contributing: 
 Feel free to submit issues or fork the repository and submit pull requests if you'd like to contribute.
